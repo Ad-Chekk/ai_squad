@@ -1,0 +1,52 @@
+[
+    {
+        "title": "FCC Proposes Updates to Wiretap Security Standards Following Chinese Telecom Hacks",
+        "description": "The FCC shared a draft ruling that, if adopted, would immediately require telecommunications firms to secure their networks against unauthorized access to systems that house wiretap requests from law enforcement, according to an agency news release.",
+        "threat_type": "Govt., Critical Infrastructure"
+    },
+    {
+        "title": "AsyncHttpClient Vulnerability Puts Java Applications at Risk",
+        "description": "This vulnerability (CVE-2024-53990) poses a significant risk to applications that rely on AsyncHttpClient for handling user authentication and authorization, especially those that interact with third-party services.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "How Widespread Is Mercenary Spyware? More Than You Think",
+        "description": "A targeted hunt by iVerify on 2,500 mobile devices for indicators of compromise associated with mercenary spyware has revealed that its use is not as rare as one would hope.",
+        "threat_type": "Trends, Reports, Analysis"
+    },
+    {
+        "title": "Ransomware Costs Manufacturing Sector $17bn in Downtime",
+        "description": "This significant financial impact stems from the widespread disruption of ransomware attacks. Beyond halting production, they jeopardize customer orders, damage relationships and lead to prolonged recovery efforts.",
+        "threat_type": "Trends, Reports, Analysis"
+    },
+    {
+        "title": "Multiple Vulnerabilities in SonicWall SMA 100 Could Lead to Remote Code Execution",
+        "description": "\u201cA vulnerability in the SonicWall SMA100 SSLVPN web management interface allows remote attackers to cause Stack-based buffer overflow and potentially lead to code execution,\u201d warns the advisory, highlighting the severity of CVE-2024-45318.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Critical Flaw in Sweet Date WordPress Theme Exposes Thousands of Sites to Potential Takeovers",
+        "description": "A critical vulnerability (CVE-2024-43222) has been identified in the Sweet Date WordPress theme, a popular premium theme with nearly 10,000 downloads. The vulnerability carries a CVSS score of 9.8.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "Fake DocuSign Emails: Don\u2019t Get Hooked by Phishing Scams",
+        "description": "DocuSign phishing attacks often masquerade as legitimate emails, complete with official branding and formats that closely mimic genuine DocuSign communications. Typically, the emails claim a document is awaiting the recipient\u2019s signature.",
+        "threat_type": "Identity Theft, Fraud, Scams"
+    },
+    {
+        "title": "Critical Zero-Day Vulnerability in Windows Exposes User Credentials",
+        "description": "A newly discovered zero-day vulnerability affecting all supported and legacy versions of Microsoft Windows allows attackers to capture user NTLM credentials through the simple act of file viewing within Windows Explorer.",
+        "threat_type": "Malware and Vulnerabilities"
+    },
+    {
+        "title": "U.S. Organization in China Targeted by Attackers",
+        "description": "A large U.S. organization with a significant presence in China was the subject of a targeted attack earlier this year, during which the attackers obtained a persistent presence on its network, seemingly for the purpose of intelligence gathering.",
+        "threat_type": "Breaches and Incidents"
+    },
+    {
+        "title": "Django Releases Patches for CVE-2024-53907 and CVE-2024-53908 to Mitigate DoS and SQLi Threats",
+        "description": "Patches to address both CVE-2024-53907 and CVE-2024-53908 have been applied to the main, 5.1, 5.0, and 4.2 branches. Users can obtain the patches from the respective changesets provided in the official Django security advisory.",
+        "threat_type": "Malware and Vulnerabilities"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Jenkins Advisory 2024-11-27: CVE-2024-54003: Stored XSS vulnerability in Simple Queue Plugin",
+        "date": "Published: November 28, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "Jenkins Advisory 2024-11-27: CVE-2024-54004: Path traversal vulnerability in Filesystem List Parameter Plugin",
+        "date": "Published: November 28, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "SUSE: CVE-2044-44244: SUSE Linux Security Advisory",
+        "date": "Published: November 27, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-67 Thunderbird: Security Vulnerabilities fixed in Thunderbird 133 (CVE-2024-11705)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-68 Thunderbird: Security Vulnerabilities fixed in Thunderbird 128.5 (CVE-2024-11693)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "FreeBSD: VID-2263EA04-AC81-11EF-998C-2CF05DA270F3 (CVE-2024-8114): Gitlab -- vulnerabilities",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "Vulnerabilities deemed not relevant on Alma Linux 8",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 1"
+    },
+    {
+        "title": "MFSA2024-63 Firefox: Security Vulnerabilities fixed in Firefox 133 (CVE-2024-11694)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-64 Firefox: Security Vulnerabilities fixed in Firefox ESR 128.5 (CVE-2024-11694)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-68 Thunderbird: Security Vulnerabilities fixed in Thunderbird 128.5 (CVE-2024-11692)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-63 Firefox: Security Vulnerabilities fixed in Firefox 133 (CVE-2024-11698)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-68 Thunderbird: Security Vulnerabilities fixed in Thunderbird 128.5 (CVE-2024-11699)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-67 Thunderbird: Security Vulnerabilities fixed in Thunderbird 133 (CVE-2024-11701)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-63 Firefox: Security Vulnerabilities fixed in Firefox 133 (CVE-2024-11704)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-63 Firefox: Security Vulnerabilities fixed in Firefox 133 (CVE-2024-11708)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-68 Thunderbird: Security Vulnerabilities fixed in Thunderbird 128.5 (CVE-2024-11696)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "FreeBSD: VID-2263EA04-AC81-11EF-998C-2CF05DA270F3 (CVE-2024-8237): Gitlab -- vulnerabilities",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-68 Thunderbird: Security Vulnerabilities fixed in Thunderbird 128.5 (CVE-2024-11698)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-68 Thunderbird: Security Vulnerabilities fixed in Thunderbird 128.5 (CVE-2024-11691)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    },
+    {
+        "title": "MFSA2024-65 Firefox: Security Vulnerabilities fixed in Firefox ESR 115.18 (CVE-2024-11691)",
+        "date": "Published: November 26, 2024",
+        "severity": "Severity: 4"
+    }
+]
